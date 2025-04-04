@@ -61,7 +61,7 @@ The dashboard provides actionable insights into the ultra-marathon dataset, feat
 </p>
 
 
-> **Note**: The dashboard link is currently being configured for public access. In the meantime, you can view the preview image above.
+> **Note**: I am happy to inform that the dashboard is now available for public access. You can view the dashboard by clicking the link below:
 
 [View the Dashboard](https://lookerstudio.google.com/reporting/1c8325f4-fadd-41ba-84d8-5fec5240efed)
 
