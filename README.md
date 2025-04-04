@@ -16,9 +16,14 @@ To address this problem, we will implement a data engineering pipeline that incl
 4. **Data Storage**: Storing the processed data in Google BigQuery for further analysis and visualization.
 5. **Data Visualization**: Creating an interactive dashboard using Looker Studio to present insights from the processed data.
 
-## 🚧 Architecture Diagram (Coming Soon)
+## 🏗️ Architecture Diagram
 
-Stay tuned for a detailed architecture diagram that will illustrate the entire data engineering pipeline, from data ingestion to visualization.
+
+Below is the architecture diagram that illustrates the entire data engineering pipeline, from data ingestion to visualization:
+
+<p align="center">
+  <img src="./images/Architecture.png" alt="Architecture Diagram" height="600" />
+</p>
 
 ### 1. Pre-requisites
 Make sure you have the following pre-installed components: 
