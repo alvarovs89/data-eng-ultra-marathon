@@ -22,7 +22,7 @@ To address this problem, we will implement a data engineering pipeline that incl
 Below is the architecture diagram that illustrates the entire data engineering pipeline, from data ingestion to visualization:
 
 <p align="center">
-  <img src="./images/Architecture.png" alt="Architecture Diagram" height="600" />
+  <img src="./images/Architecture.png" alt="Architecture Diagram" style="max-width: 100%; height: auto;" />
 </p>
 
 ### 1. Pre-requisites
@@ -57,7 +57,7 @@ https://cloud.google.com/compute/docs/connect/create-ssh-keys -->
 The dashboard provides actionable insights into the ultra-marathon dataset, featuring visualizations and metrics to better understand the data. It is built using Looker Studio and connects to the processed data stored in Google BigQuery.
 
 <p align="center">
-  <img src="./images/dashboard.png" alt="Dashboard Preview" height="600" />
+  <img src="./images/dashboard.png" alt="Dashboard Preview" style="max-width: 100%; height: auto;" />
 </p>
 
 
