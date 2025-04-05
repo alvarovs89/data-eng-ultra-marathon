@@ -1,6 +1,16 @@
 # Ultra Marathon Data Engineering Project
 
 ## Project Overview
+This project is a comprehensive data engineering pipeline designed to process and analyze ultra-marathon data. The pipeline utilizes various technologies, including Google Cloud Platform (GCP), Apache Spark, and Kestra, to efficiently manage and transform the data. The end goal is to provide insights into ultra-marathon events through an interactive dashboard.
+The project is structured into several components, each responsible for a specific part of the data pipeline. The main components include:
+- **Terraform**: Used for infrastructure provisioning and management on GCP.
+- **Kestra**: An open-source data orchestration tool that manages the workflow of the data pipeline. (Ingest data from Kaggle, transform it, and load it into GCS).
+- **Apache Spark**: A distributed data processing engine used for transforming and analyzing the data.
+- **Google Cloud Storage (GCS)**: A cloud storage service used for storing raw and processed data.
+- **Google BigQuery**: A fully managed data warehouse that stores the processed data for analysis.
+- **Looker Studio**: A data visualization tool used to create interactive dashboards and reports.
+- **Docker**: Used for containerizing the Kestra application and its dependencies.
+- **Google Dataproc**: A managed Spark and Hadoop service that simplifies running big data frameworks on GCP.
 
 
 ## 🎯 Problem Statement
